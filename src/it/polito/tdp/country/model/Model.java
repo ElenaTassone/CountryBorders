@@ -128,6 +128,7 @@ public class Model {
 		}
 	}
 
+	// prova commit
 	public void printStats() {
 		System.out.format("Grafo: Vertici %d, Archi %d\n", graph.vertexSet().size(), graph.edgeSet().size());
 	}
